@@ -1,1 +1,6 @@
-
+Install packages 
+-Agricoloe
+-variability 
+-readxl 
+-psych 
+-ggplot
